@@ -1,0 +1,7 @@
+app:
+  mode: "local" # local, prod...
+  logger:
+    mode: "error"
+  grpc:
+    port: 44045
+    timeout: 5
